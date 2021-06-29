@@ -7,9 +7,10 @@ sections:
     title: >-
       Film Division LLC is a full service video production company based in
       Ukraine
-    content: >
+    content: >+
       We do all the work related to the production of your film. At all stages
-      from pre-production to post-production. [Let's talk](/contact/).
+      from pre-production to post-production.
+
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
