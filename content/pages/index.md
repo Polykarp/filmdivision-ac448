@@ -11,14 +11,7 @@ sections:
       We do all the work related to the production of your film. At all stages
       from pre-production to post-production.
 
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
