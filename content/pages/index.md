@@ -46,7 +46,7 @@ sections:
           *   Catering
           *   Full control shifts
           *   Project logistics 
-      - title: Experience design
+      - title: Post-production
         image: images/service-3.svg
         content: |-
           - Digital product design
