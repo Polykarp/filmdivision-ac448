@@ -27,14 +27,14 @@ sections:
     col_number: three
     grid_items:
       - image: images/service-1.svg
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
+        content: |
+          *   Find Best Crew for You shooting Team
+          *   Location Scout
+          *   Permits for shooting
+          *   Transport service
+          *   Scheduling project
+          *   Budgeting project
+          *   Friendly Communication 
         title: Pre-production
       - title: Brand design
         image: images/service-2.svg
