@@ -35,6 +35,7 @@ sections:
           - Design strategy
           - Digital and experience strategy
           - Communication strategy
+        title: Pr
       - title: Brand design
         image: images/service-2.svg
         content: |-
