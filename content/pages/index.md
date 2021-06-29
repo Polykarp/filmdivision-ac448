@@ -38,14 +38,14 @@ sections:
         title: Pre-production
       - title: Production
         image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |
+          *   Rent equipment
+          *   Administration service
+          *   Accompanying on the set
+          *   Rent transport
+          *   Catering
+          *   Full control shifts
+          *   Project logistics 
       - title: Experience design
         image: images/service-3.svg
         content: |-
