@@ -36,7 +36,7 @@ sections:
           *   Budgeting project
           *   Friendly Communication 
         title: Pre-production
-      - title: Brand design
+      - title: Production
         image: images/service-2.svg
         content: |-
           - Brand development
